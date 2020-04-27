@@ -30,8 +30,8 @@
   反映する．
   また，マージするときはマージコミットを作成する．
 
-[master]: https://github.com/shian2fp/shian2fp.github.io/tree/draft/
-[draft]: https://github.com/shian2fp/shian2fp.github.io/tree/master/
+[master]: https://github.com/shian2fp/shian2fp.github.io/tree/master/
+[draft]: https://github.com/shian2fp/shian2fp.github.io/tree/draft/
 
 <!-- Local Variables:                                                   -->
 <!-- mode: gfm                                                          -->
